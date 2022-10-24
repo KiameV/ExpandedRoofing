@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-    <identifier>ExpandedRoofing</identifier>
+    <identifier>ExpandedRoofing 1.4</identifier>
     <version>1.4.0</version>
     <!--<loadBefore>
         <li>HowManyModsDoesOneNeed >= 9000.1</li>
@@ -9,5 +9,5 @@
         <li>ToModOrNotToMod</li>
     </loadAfter>-->
     <manifestUri>https://raw.githubusercontent.com/AaronCRobinson/ExpandedRoofing/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/KiameV/ExpandedRoofing/releases/tag/v1.3.0.0</downloadUri>
+    <downloadUri>https://github.com/NigrumMortis/ExpandedRoofing/releases/tag/v1.4.0.0</downloadUri>
 </Manifest>
