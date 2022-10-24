@@ -1,4 +1,4 @@
-# ExpandedRoofing [![RimWorld 1.1](https://img.shields.io/badge/RimWorld-1.1-green.svg?longCache=true&style=plastic)](http://rimworldgame.com/)
+# ExpandedRoofing [![RimWorld 1.4](https://img.shields.io/badge/RimWorld-1.1-green.svg?longCache=true&style=plastic)](http://rimworldgame.com/)
 
 Adds customizable roofing, with transparent greenhouse roofing and photovoltaic solar roofing. Reworked from Vendan's original idea.
 
@@ -34,12 +34,13 @@ Adds customizable roofing, with transparent greenhouse roofing and photovoltaic 
 - French (by Jozay)
 - Chinese (by Rosenmund and 不为人知的汉子)
 - Japanese (by mundane_m)
+- German (by NigrumMortis)
 
 ## Acknowledgements
 
-Thank to Erdelf for getting me back on track and Xen for designator artwork.
-
-Special thanks to Pardeike's amazing non-destructive patching library, Harmony.
+<p>KiameV - > Thank to Erdelf for getting me back on track and Xen for designator artwork.<br>
+KiameV - > Special thanks to Pardeike's amazing non-destructive patching library, Harmony.<br>
+NigrumMortis -> Special thanks to KiameV for maintaining this mod for version 1.3.</p>
 
 <p align="center">
   <a href="https://github.com/pardeike/Harmony">
