@@ -266,7 +266,9 @@ xcopy /S /Y "$(SolutionDir)..\About\*" "E:\SteamLibrary\steamapps\common\RimWorl
 xcopy /S /Y "$(SolutionDir)..\Defs\*" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\Defs\"
 xcopy /S /Y "$(SolutionDir)..\Patches\*" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\Patches\"
 xcopy /S /Y "$(SolutionDir)..\Textures\*" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\Textures\"
-xcopy /S /Y "$(SolutionDir)..\Languages\*" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\Languages\"</PostBuildEvent>
+xcopy /S /Y "$(SolutionDir)..\Languages\*" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\Languages\"
+xcopy /s /Y "$(SolutionDir)..\LoadFolders.xml" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)"
+xcopy /S /Y "$(SolutionDir)..\v1.3\*" "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\v1.3\"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <PreBuildEvent>del /S /Q "E:\SteamLibrary\steamapps\common\RimWorld\Mods\$(ProjectName)\Defs\*"
